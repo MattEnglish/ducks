@@ -1,0 +1,7 @@
+C:\Work\Training\Duck\Duck\bin\Debug\Duck.exe.config
+C:\Work\Training\Duck\Duck\bin\Debug\Duck.exe
+C:\Work\Training\Duck\Duck\bin\Debug\Duck.pdb
+C:\Work\Training\Duck\Duck\obj\Debug\Duck.csprojResolveAssemblyReference.cache
+C:\Work\Training\Duck\Duck\obj\Debug\Duck.csproj.CoreCompileInputs.cache
+C:\Work\Training\Duck\Duck\obj\Debug\Duck.exe
+C:\Work\Training\Duck\Duck\obj\Debug\Duck.pdb
